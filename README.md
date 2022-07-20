@@ -1,1 +1,1 @@
-Репозиторий для хранение файлов с курса "Автоматизация тестирования с помощью Selenium и Python". 
+Repository for my attempts to work with git
